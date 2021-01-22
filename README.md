@@ -1,13 +1,14 @@
 # ESP32 Development Kit
 
+<div style="padding:10px;">
 ESP32 is a powerful embedded development board. But the ESP32 DevKit design is not much breadboard friendly and has a weird pinout design.
-
 
 That is why I designed this development kit, to make my experiments easier with the help of built-in electronic components and breadboard.
 
 I decided to share it *open-source* under *Creative Commons Attribution-ShareAlike 4.0 International License*.
 
-I also uploaded the stickers I pasted to the board for your reference. You can print the *prints/stickers.pdf* file to an A5 size sticker paper and cut them.
+The stickers pasted to the board also uploaded for your reference. You can print the *prints/stickers.pdf* file to an A5 size sticker paper and cut them.
+</div>
 
 ### Features
 
