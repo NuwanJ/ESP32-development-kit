@@ -1,3 +1,5 @@
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
 # ESP32 Development Kit
 
 <div style="padding:10px;">
@@ -51,7 +53,6 @@ You can see some images of the final design (with the 3d printed enclosure) here
 I added a sample code for SSD1306 display, which is using Adafruit_SSD1306 library. I will try to add a few more libraries in future.
 
 ----
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
